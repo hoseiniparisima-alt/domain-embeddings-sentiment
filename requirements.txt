@@ -1,0 +1,7 @@
+torch>=2.2
+gensim>=4.3
+numpy
+pandas
+scikit-learn
+matplotlib
+jupyter

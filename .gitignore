@@ -1,0 +1,17 @@
+# Raw data and embeddings are not published
+data/
+*.csv
+*.zip
+*.txt
+!requirements.txt
+*.model
+*.pt
+checkpoints/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# macOS
+.DS_Store
